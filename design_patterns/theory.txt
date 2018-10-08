@@ -1,0 +1,27 @@
+Design patterns are patterns used for writing software or web applications. Patterns are selected based on the requirements that needs to be implemented.
+
+Benifits.
+1. Tried and tested solutions throughout the software industry.
+2. Eases the communication between the team members from code understanding point of view
+3. Ease of maintenance of the code
+4. Standard way of doing things so code understanding becomes easy
+5. Reduces technical risks of code duplication etc
+6. Highly flexible and language independent so cross domain implememtation and integration becomes simple
+7. Easy to understand
+
+Design Patterns
+
+Model View Controller Pattern - Done
+Singleton Pattern - Done
+Factory Pattern - Done
+Prototype Pattern - Done
+Facade Pattern - Done
+Command Pattern - Done
+Adapter Pattern - Done
+Strategy Pattern - Done
+
+Chain of Responsibility Pattern
+Decorator Pattern
+Observer Pattern
+Builder Pattern
+
